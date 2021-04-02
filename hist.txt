@@ -1,0 +1,41 @@
+commit a99cfcbff43b5ad682bf062831c3d63af87b0873
+Author: nacostashdw <81781335+nacostashdw@users.noreply.github.com>
+Date:   Thu Apr 1 16:33:24 2021 -0700
+
+    Update weekend_plan.txt
+
+commit 31a8b3deba149cb7b142869a2850f486c3b0a984
+Author: AllyWeir <amaweir@ucdavis.edu>
+Date:   Thu Apr 1 23:32:19 2021 +0000
+
+    Ally added test text in atom
+
+commit b294ab72a4bf8495e3826547a38fec23548be489
+Author: Jing Gao <mailforgjNo1@163.com>
+Date:   Thu Apr 1 23:27:47 2021 +0000
+
+    Jing added his weekend plan
+
+commit a17cb75d1f55b431f6a05e674b431671ec911a9c
+Author: JingGao0823 <81781244+JingGao0823@users.noreply.github.com>
+Date:   Thu Apr 1 23:23:15 2021 +0000
+
+    delete
+
+commit 86faa81f70f5a8fb86fbee08b8cd46bc8945d9fa
+Author: AllyWeir <amaweir@ucdavis.edu>
+Date:   Thu Apr 1 23:15:14 2021 +0000
+
+    added Ally's plans
+
+commit 22e0b825fae29554741c5a97f1fec94dc40aab60
+Author: Jing Gao <mailforgjNo1@163.com>
+Date:   Thu Apr 1 22:57:59 2021 +0000
+
+    I added my weekend plan
+
+commit 472d2a77ec96c84e88078a72a9a587afbea0d756
+Author: JingGao0823 <81781244+JingGao0823@users.noreply.github.com>
+Date:   Thu Apr 1 22:51:14 2021 +0000
+
+    Initial commit
